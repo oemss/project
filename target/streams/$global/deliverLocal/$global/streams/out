@@ -1,0 +1,4 @@
+[0m[[0minfo[0m] [0m:: delivering :: thrift-example#thrift-example_2.11;0.1 :: 0.1 :: release :: Sun Aug 14 16:30:39 MSK 2016[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Sun Aug 14 16:30:39 MSK 2016 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/evgeniy/projects/qwe/scala-thrift-example/target/scala-2.11/ivy-0.1.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (43ms)[0m

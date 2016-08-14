@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /home/evgeniy/projects/qwe/scala-thrift-example/target/scala-2.11/thrift-example_2.11-0.1-sources.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	me/eax/examples/thrift/Main.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/evgeniy/projects/qwe/scala-thrift-example/src/main/scala/me/eax/examples/thrift/Main.scala[0m
+[0m[[0mdebug[0m] [0m	me/eax/examples/thrift/Server.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/evgeniy/projects/qwe/scala-thrift-example/src/main/scala/me/eax/examples/thrift/Server.scala[0m
+[0m[[0mdebug[0m] [0m	me/eax/examples/thrift/MyClient.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/evgeniy/projects/qwe/scala-thrift-example/src/main/scala/me/eax/examples/thrift/MyClient.scala[0m
+[0m[[0mdebug[0m] [0m	me/eax/examples/thrift/records.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/evgeniy/projects/qwe/scala-thrift-example/src/main/scala/me/eax/examples/thrift/records.scala[0m
+[0m[[0mdebug[0m] [0m	me/eax/examples/thrift/functions.scala[0m
+[0m[[0mdebug[0m] [0m	  /home/evgeniy/projects/qwe/scala-thrift-example/src/main/scala/me/eax/examples/thrift/functions.scala[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
